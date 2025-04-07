@@ -1,7 +1,7 @@
 ### Hi, my name is Igor 👋
 
-I am an undergraduate student at Universidade Federal de Campina Grande (UFCG). I've been working at research projects with causality
-for 1.5 years, mainly with autoencoders. 
+I am an undergraduate student at Universidade Federal de Campina Grande (UFCG). I've been working at research projects with artificial Intelligence
+for 2.5 years. 
 
 Most of my experience are working with python or java, but I know also know about HTML, CSS and javascript.
 
